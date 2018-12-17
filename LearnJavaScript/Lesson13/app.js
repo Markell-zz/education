@@ -37,10 +37,11 @@
 //
 // alert( min + Math.random() * (max - min) );
 
-function randomInteger(min, max) {
-    var rand = min + Math.random() * (max + 1 - min);
-    rand = Math.floor(rand);
-    return rand;
-  }
+// function randomInteger(min, max) {
+//
+//     var rand = min + Math.random() * (max + 1 - min);
+//     rand = Math.floor(rand);
+//     return rand;
+//   }
 
-alert( randomInteger(5, 10) );
+alert(randomInteger(5, 10));
