@@ -1,1 +1,26 @@
-<h2 align="center">Educatin repository</h3>
+
+
+- to take up - **to start doing a particular job or activity** - начать заниматься чем-либо
+- to take *sth* out - **to arrange and pay for insurance, a loan, an advertisement, etc** - выписывать
+- to read up (on/about) *sth* - **to spend time reading in order to find out information about something** - изучть, прочитать
+- to find (sth) out **to get information about something, or to learn a fact for the first time** - обнаруживать, натыкаться 
+- to plant *sth* out - **to put a plant into the ground outside to continue growing** - высаживать
+- to get into *sth* - **to become interested in an activity or subject, or start being involved in an activity:** - вовлекатся
+- to go off - **to leave a place and go somewhere else** - уходить
+- to put sth on - **to put clothes or shoes onto your body** - надевать 
+- to set off - **to start a journey** - отправляться в путь 
+- to take about -  **If something takes a particular amount of time, or a particular quality, you need that amount of time or that quality in order to be able to do it.** - занимать, требоваться(времни)
+- to get back -  **to return to a place after you have been somewhere else** - возвращаться 
+- to catch up - **to learn or discuss the most recent news** - наверстывать, быть в курсе 
+- to work on sth - **to spend time repairing or improving something** - работать с/над чем-либо
+- to hand in - **to give something to someone in a position of authority** - сдавать, подавать
+- to take someone in - **to provide a place for someone to live or stay** - принимать
+- to brake out - **to escape from prison** - сбегать 
+- to put sth off - **to decide or arrange to do something at a later time** - откладывать, отсрочивать 
+- to speak out - **to give your opinion about something in public, especially on a subject that you have strong feelings about** - высказывать свою точку зрения 
+- to break down - **If a machine or vehicle breaks down, it stops working.** - ломаться 
+- to shake-up - **If there is a shake-up of a system or organization, big changes are made to it.** - коренная реорганизация 
+- to cover-up - **an attempt to prevent people finding out the truth about a crime or a mistake** - сокрытие, укрывательство 
+- to lockout - **an occasion when an employer prevents workers from entering their place of work until they agree to particular conditions** - забастовка
+- breakaway - **a group/region, etc that has separated itself from a larger group or region because of a disagreement** - отколовшаяся группа/ республика/отколовшийся регион и т. д.
+- to shutdown - **a time when a business or a large piece of equipment stops operating, usually for a temporary period** - закрытие (предприятия)
